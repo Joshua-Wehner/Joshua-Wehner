@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Josh Wehner 👋
 
-<!--
-**Joshua-Wehner/Joshua-Wehner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a consultant at **AnswerRocket** focused on AI and modern data platform (MDP) implementations. I work at the intersection of strategy and execution — helping clients design, build, and adopt AI-powered analytics solutions.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Implementation Leadership** — End-to-end delivery of AI and data platform engagements
+- **Client Engagement & Sales** — Technical discovery, solutioning, and stakeholder alignment
+- **Technical Generalism** — Bridging engineering, analytics, and data science on client teams
+
+## Current Focus
+
+- Agentic AI workflows and LLM integration in enterprise analytics
+- Modern data platform architecture (cloud data warehouses, semantic layers, BI tooling)
+- Practical AI adoption — getting organizations from pilot to production
+
+## Tools & Stack
+
+`Python` `SQL` `dbt` `Snowflake` `Databricks` `LLM APIs` `AI Agents` `BI / Analytics`
+
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-wehner/) *(update if different)*
+- 📧 Reach me through [AnswerRocket](https://answerrocket.com)
+
+---
+
+*Building at the edge of AI and enterprise analytics.*
